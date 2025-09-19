@@ -21,7 +21,7 @@ export function Header() {
         <div className="flex items-center justify-between h-20">
           <Link href="/" className="flex items-center space-x-4 group animate-slide-in-left">
             <div className="relative w-12 h-12 transition-all duration-300 group-hover:scale-110 group-hover:rotate-12">
-              <Image src="/penguin-logo.png" alt="Logo" fill className="object-contain" />
+              <Image src="https://orvsccdc47.ufs.sh/f/Slhdc2MbjygMbusHsQBGIu7ZmbJta6NLkf1hT4cjBFQSEOnl" alt="Logo" fill className="object-contain" />
             </div>
           </Link>
 
