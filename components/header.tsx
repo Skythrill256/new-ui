@@ -12,7 +12,7 @@ export function Header() {
   const navItems = [
     { name: "Hibiscus", href: "#hibiscus" },
     { name: "Sheldon", href: "#sheldon" },
-    { name: "Protocol", href: "#protocol" },
+    { name: "Pebble", href: "#pebble" },
   ]
 
   return (

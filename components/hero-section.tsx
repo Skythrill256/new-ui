@@ -9,21 +9,21 @@ export function HeroSection() {
     {
       name: "Pebbling",
       description:
-        "Revolutionary data processing that transforms your workflow with intelligent automation and seamless integration.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
       icon: Zap,
       gradient: "from-primary/20 to-accent/20",
     },
     {
       name: "Hibiscus",
       description:
-        "Advanced security protocols that protect your digital assets with enterprise-grade encryption and monitoring.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
       icon: Shield,
       gradient: "from-accent/20 to-secondary/20",
     },
     {
       name: "Sheldon",
       description:
-        "AI-powered analytics engine that delivers actionable insights and predictive intelligence for your business.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.",
       icon: Brain,
       gradient: "from-secondary/20 to-primary/20",
     },
