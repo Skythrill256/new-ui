@@ -54,8 +54,7 @@ export function Footer() {
               <span className="text-lg font-bold text-foreground">Pebbling</span>
             </Link>
             <p className="text-sm text-muted-foreground leading-relaxed mb-4">
-              Transforming businesses with intelligent solutions that drive growth, efficiency, and innovation in the
-              digital age.
+             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum, eius sequi? Ex nulla velit et quaerat asperiores ad iure placeat, fugiat dolorum, molestiae vel aut? Voluptatibus hic quos qui expedita.
             </p>
             <div className="flex space-x-4">
               <Link href="#" className="text-muted-foreground hover:text-primary transition-colors">
