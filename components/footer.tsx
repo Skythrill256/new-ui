@@ -49,7 +49,7 @@ export function Footer() {
           <div className="col-span-2 lg:col-span-2">
             <Link href="/" className="flex items-center space-x-3 mb-4">
               <div className="relative w-8 h-8">
-                <Image src="https://orvsccdc47.ufs.sh/f/Slhdc2MbjygMbusHsQBGIu7ZmbJta6NLkf1hT4cjBFQSEOnl" alt="Pebbling Logo" fill className="object-contain" />
+                <Image src="/pebbling_logo.png" alt="Pebbling Logo" fill className="object-contain" />
               </div>
               <span className="text-lg font-bold text-foreground">Pebbling</span>
             </Link>
