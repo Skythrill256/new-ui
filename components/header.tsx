@@ -51,7 +51,7 @@ export function Header() {
               size="lg"
               className="bg-primary text-primary-foreground hover:bg-accent hover:scale-105 transition-all duration-300 shadow-lg px-6 font-sans font-medium"
             >
-              Let's Pebble... 🐧
+              Let&apos;s Pebble... 🐧
             </Button>
           </div>
 
@@ -88,7 +88,7 @@ export function Header() {
                   size="lg"
                   className="bg-primary text-primary-foreground hover:bg-accent transition-all duration-300 shadow-lg font-sans font-medium"
                 >
-                  Let's Pebble... 🐧
+                  Let&apos;s Pebble... 🐧
                 </Button>
               </div>
             </nav>
